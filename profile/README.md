@@ -51,10 +51,10 @@ We're more than happy about any feedback regarding our policies and would like t
 ## Licensing
 Be aware that Projects may have varying kinds of more or less premissive Open Hardware / Software Licenses attached - usually depending on the project, a related customer or heavy upfromt-R&D involved with a specific project.
 
-Typically we use Creative Commons licenses. There are exceptions (Like the CERN HW Licenses
+Typically we use Creative Commons licenses. There are exceptions (Like the CERN OHL and TAPR Open Hardware License), in general they are similarly "non-commercial, share-alike" type licenses. In some situations they fit better (e.g. Open-sourcing a customer design, with special permission).
 
 #### Licenses we use for OSHW + F/OSS
-- *CC CC0 1.0 Universal* aka. `Public Domain Dedication` [^2]
+- *CC0 1.0 Universal* aka. `Public Domain Dedication` [^2]
 - *CC BY-NC-SA 4.0* [^3]
 - [CERN OHL Version 2](https://gitlab.com/ohwr/project/cernohl/-/wikis/Documents/CERN-OHL-version-2) e.g. *CERN-OHL-S* [^4]
 - *TAPR Open Hardware License v1.0* [^5]

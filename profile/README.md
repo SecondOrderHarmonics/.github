@@ -57,10 +57,10 @@ Typically we use Creative Commons licenses and use *CC BY-NC-SA 4.0* [^1] or as 
 You may get in contact with us via: mailto:info@secondorderharmonics.eu
 
 
-Peace, Love and Unity,     
-– <ins>The Team (AZ & KT)</ins>
+Peace, Love & Unity,     
+– The Second Order Harmonics Team (= <ins>AZ & KT</ins>)
 
-## Sources & Links
+## Sources
 [^1]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [^2]: https://creativecommons.org/publicdomain/zero/1.0/
 [^3]: https://www.patreon.com/secondorderharmonics

@@ -5,11 +5,11 @@ These are our GitHub Repos. Feel free to look through them. Please open issues i
 
 ## Links, Blog Posts and Further Info off-site
 - www.secondorderharmonics.com & www.secondorderharmonics.eu
-- https://www.facebook.com/profile.php?id=100090381861518
 - https://www.patreon.com/secondorderharmonics
+- https://www.facebook.com/profile.php?id=100090381861518
 
 ## Supportig us | Gaining early access
-Open Hardware Projects, and related F/OSS (Free/Open Source Software), can be a lot of work. We do not have active sponsorship, Kickstarter Campaigns or anything similar. We currently live off other Day Jobs and custom design inquiries/modding of existing audio HW (from outboard gear to retooling and/or modding entire recording consoles, Working as Stand-by engineer(s) during Recording/Tracking and Mixing sessions as well as renting out our own high-end outboard gear for recording and mixing sessions). That being said: We're happy to share some of our work. Most of it, actually. And will try to keep to our understanding that welll-tested field deployed or commmercially available units will be made fully open later on in very specific cases (seee 'Licensing' below). You can support/help us and/or gain early access to projects, contribute ideas via Patreon [^3].
+Open Hardware Projects, and related F/OSS (Free/Open Source Software), can be a lot of work. We do not have active sponsorship, Kickstarter Campaigns or anything similar. We currently live off other Day Jobs and custom design inquiries/modding of existing audio HW (from outboard gear to retooling and/or modding entire recording consoles, Working as Stand-by engineer(s) during Recording/Tracking and Mixing sessions as well as renting out our own high-end outboard gear for recording and mixing sessions). That being said: We're happy to share some of our work. Most of it, actually. And will try to keep to our understanding that welll-tested field deployed or commmercially available units will be made fully open later on in very specific cases (seee 'Licensing' below). You can support/help us and/or gain early access to projects, contribute ideas via Patreon [^patreon].
 
 ## So.. what's Open Source Software / Open Hardware and what isn't?
 __Everything is__ as per our principles. Due to R&D, Testing and production costs of bigger HW projects or custom designs for private customers (which are encouraged to agree to open-source our work in time) - we reserve the right to have a few more advanced designs/products only available after a delay. There's multiple reasons for this, the five (5) main ones are:
@@ -65,7 +65,7 @@ You may get in contact with us via: mailto:info@secondorderharmonics.eu
 *Peace, Love & Unity,*     
 – The Second Order Harmonics Team [<ins>AZ, KT</ins>]
 
-[^1]: https://www.patreon.com/secondorderharmonics
+[^patreon]: https://www.patreon.com/secondorderharmonics
 [^2]: https://creativecommons.org/publicdomain/zero/1.0/
 [^3]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [^4]: https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/b236492596cfc91c12def7d50bbf7da0/cern_ohl_s_v2.pdf    

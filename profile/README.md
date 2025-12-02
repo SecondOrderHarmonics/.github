@@ -1,4 +1,4 @@
-# $2f —$ Second Order Harmonics: _Analogoue Sound for the Digital Age_
+# $2f —$ Second Order Harmonics: _Analogue Sound for the Digital Age_
 
 ## General Info
 These are our GitHub Repos. Feel free to look through them. Please open issues if you find mistakes, have issues during your own production of on of our designs or have suggestions for future revisions.

@@ -1,5 +1,9 @@
 # $2f —$ Second Order Harmonics: _Analogue Sound for the Digital Age_
 
+## Quick Start (TL;DR - some of our public work)
+1. [Cheat-Sheets](https://github.com/SecondOrderHarmonics/cheatsheets)
+2. [Audio-Summer](https://github.com/SecondOrderHarmonics/audio-summer_dsub25-to-combo-xlrtrs)
+
 ## General Info
 These are our GitHub Repos. Feel free to look through them. Please open issues if you find mistakes, have issues during your own production of one of our designs or have suggestions for future revisions.
 

@@ -1,8 +1,8 @@
 # $2f —$ Second Order Harmonics: _Analogue Sound for the Digital Age_
 
 ## Quick Start $-$ some of our public repos
-1. [Cheat-Sheets](https://github.com/SecondOrderHarmonics/cheatsheets)
-2. [Audio-Summer](https://github.com/SecondOrderHarmonics/audio-summer_dsub25-to-combo-xlrtrs)
+1. [cheatsheets](https://github.com/SecondOrderHarmonics/cheatsheets) [Cheat-sheets: for EE in Analog audio circuit design]
+2. [Audio-Summer](https://github.com/SecondOrderHarmonics/audio-summer_dsub25-to-combo-xlrtrs) [8x2 passive audio summer - DB25/Tascam to 2xXLR/TRS Combo Jacks]
 
 ## General Info
 These are our GitHub Repos. Feel free to look through them. Please open issues if you find mistakes, have issues during your own production of one of our designs or have suggestions for future revisions.

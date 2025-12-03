@@ -2,8 +2,10 @@
 
 ## Quick Start $-$ some of our public repos
 
-1. [`cheetsheets`](https://github.com/SecondOrderHarmonics/cheatsheets/blob/main/README.md)  Cheat-sheets: for EE in Analog audio circuit design
-2. [`audio-summer_dsub25-to-combo-xlrtrs`](https://github.com/SecondOrderHarmonics/audio-summer_dsub25-to-combo-xlrtrs)  Audio Summer: DSUB25/Tascam to 2xXLR/TRS combo Jack [8x2 passive audio summer]
+- [`cheetsheets`](https://github.com/SecondOrderHarmonics/cheatsheets/blob/main/README.md)
+   > Cheat-sheets: for all EE in Analog audio circuit design
+- [`audio-summer_dsub25-to-combo-xlrtrs`](https://github.com/SecondOrderHarmonics/audio-summer_dsub25-to-combo-xlrtrs)
+   > Audio Summer: DSUB25/Tascam to 2xXLR/TRS-combo [8x2 passive summer]
 
 ## General Info
 These are our GitHub Repos. Feel free to look through them. Please open issues if you find mistakes, have issues during your own production of one of our designs or have suggestions for future revisions.
